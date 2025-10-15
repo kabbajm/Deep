@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/921809127bb4460fa918050504f525c3/artifacts
+end_time: 1760519613259
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 921809127bb4460fa918050504f525c3
+run_name: welcoming-gnat-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519613215
+status: 3
+tags: []
+user_id: kabbaj

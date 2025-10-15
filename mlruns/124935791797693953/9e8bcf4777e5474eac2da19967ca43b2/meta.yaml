@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/9e8bcf4777e5474eac2da19967ca43b2/artifacts
+end_time: 1760518444432
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 9e8bcf4777e5474eac2da19967ca43b2
+run_name: mercurial-rat-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760518444387
+status: 3
+tags: []
+user_id: kabbaj

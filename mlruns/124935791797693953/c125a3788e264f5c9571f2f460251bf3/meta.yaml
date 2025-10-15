@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/c125a3788e264f5c9571f2f460251bf3/artifacts
+end_time: 1760519573201
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: c125a3788e264f5c9571f2f460251bf3
+run_name: magnificent-mare-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519573158
+status: 3
+tags: []
+user_id: kabbaj

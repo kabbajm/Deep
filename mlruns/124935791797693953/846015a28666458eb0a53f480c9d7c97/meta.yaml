@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/846015a28666458eb0a53f480c9d7c97/artifacts
+end_time: 1760519586938
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 846015a28666458eb0a53f480c9d7c97
+run_name: fortunate-bass-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519586895
+status: 3
+tags: []
+user_id: kabbaj

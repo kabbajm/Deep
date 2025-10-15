@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/ed40f6c905ab43c19fb940ed93e9809e/artifacts
+end_time: 1760519138007
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: ed40f6c905ab43c19fb940ed93e9809e
+run_name: intelligent-frog-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519137881
+status: 3
+tags: []
+user_id: kabbaj

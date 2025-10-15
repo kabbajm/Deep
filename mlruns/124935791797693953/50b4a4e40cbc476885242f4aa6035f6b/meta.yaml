@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/50b4a4e40cbc476885242f4aa6035f6b/artifacts
+end_time: 1760518609476
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 50b4a4e40cbc476885242f4aa6035f6b
+run_name: nimble-pug-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760518609429
+status: 3
+tags: []
+user_id: kabbaj

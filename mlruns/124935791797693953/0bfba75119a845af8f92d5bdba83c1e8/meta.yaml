@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/0bfba75119a845af8f92d5bdba83c1e8/artifacts
+end_time: 1760518329786
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 0bfba75119a845af8f92d5bdba83c1e8
+run_name: mercurial-ape-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760518329753
+status: 4
+tags: []
+user_id: kabbaj

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/c66e774741c64a659d1e51a9ad4f1f7f/artifacts
+end_time: 1760519754343
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: c66e774741c64a659d1e51a9ad4f1f7f
+run_name: marvelous-quail-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519754298
+status: 3
+tags: []
+user_id: kabbaj

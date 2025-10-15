@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/21c98d35acdc43aba37a12530823f220/artifacts
+end_time: 1760519802678
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 21c98d35acdc43aba37a12530823f220
+run_name: calm-bat-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519802511
+status: 3
+tags: []
+user_id: kabbaj

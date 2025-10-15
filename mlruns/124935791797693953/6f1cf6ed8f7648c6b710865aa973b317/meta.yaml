@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/6f1cf6ed8f7648c6b710865aa973b317/artifacts
+end_time: 1760519137742
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 6f1cf6ed8f7648c6b710865aa973b317
+run_name: unique-ape-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519137697
+status: 3
+tags: []
+user_id: kabbaj

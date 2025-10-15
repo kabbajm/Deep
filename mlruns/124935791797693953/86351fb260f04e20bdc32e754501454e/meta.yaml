@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/86351fb260f04e20bdc32e754501454e/artifacts
+end_time: 1760519503152
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 86351fb260f04e20bdc32e754501454e
+run_name: bold-bug-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519503104
+status: 3
+tags: []
+user_id: kabbaj

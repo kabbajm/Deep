@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/04b0f0b0732345d880abbe6f77c9b2b1/artifacts
+end_time: 1760519808856
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 04b0f0b0732345d880abbe6f77c9b2b1
+run_name: auspicious-crow-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519808687
+status: 3
+tags: []
+user_id: kabbaj

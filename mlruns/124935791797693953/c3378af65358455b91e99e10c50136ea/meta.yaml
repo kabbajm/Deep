@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/c3378af65358455b91e99e10c50136ea/artifacts
+end_time: 1760519808559
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: c3378af65358455b91e99e10c50136ea
+run_name: able-shrew-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519808512
+status: 3
+tags: []
+user_id: kabbaj

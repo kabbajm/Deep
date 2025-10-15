@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/84c0164cd9e049a09f5d0389d9d53110/artifacts
+end_time: 1760519553708
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 84c0164cd9e049a09f5d0389d9d53110
+run_name: indecisive-gull-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519553664
+status: 3
+tags: []
+user_id: kabbaj

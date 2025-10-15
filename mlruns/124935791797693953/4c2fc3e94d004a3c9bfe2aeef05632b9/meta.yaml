@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/4c2fc3e94d004a3c9bfe2aeef05632b9/artifacts
+end_time: 1760519656654
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 4c2fc3e94d004a3c9bfe2aeef05632b9
+run_name: monumental-smelt-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519656609
+status: 3
+tags: []
+user_id: kabbaj

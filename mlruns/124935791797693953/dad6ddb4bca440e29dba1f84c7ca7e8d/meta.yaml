@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/dad6ddb4bca440e29dba1f84c7ca7e8d/artifacts
+end_time: 1760519754620
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: dad6ddb4bca440e29dba1f84c7ca7e8d
+run_name: classy-fish-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760519754498
+status: 3
+tags: []
+user_id: kabbaj

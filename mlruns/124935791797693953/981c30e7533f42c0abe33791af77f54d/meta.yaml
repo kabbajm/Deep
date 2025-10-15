@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/124935791797693953/981c30e7533f42c0abe33791af77f54d/artifacts
+end_time: 1760518609744
+entry_point_name: ''
+experiment_id: '124935791797693953'
+lifecycle_stage: active
+run_id: 981c30e7533f42c0abe33791af77f54d
+run_name: marvelous-turtle-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760518609622
+status: 3
+tags: []
+user_id: kabbaj
