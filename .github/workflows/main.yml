@@ -24,6 +24,9 @@ jobs:
         pip install pytest
         pip install mlflow
         pip install -r requirements.txt
+    - name: creer le docssier artefact
+      run: |
+        mkdir artifacts
     - name: entrainer le model
       run: |
         python train_model.py
